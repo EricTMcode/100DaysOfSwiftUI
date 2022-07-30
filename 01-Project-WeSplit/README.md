@@ -5,9 +5,11 @@ https://www.hackingwithswift.com/100/swiftui/16
 
 ## Overview
 
-1. Add a header to the third section, saying “Amount per person”.
-2. Add another section showing the total amount for the check – i.e., the original amount plus tip value, without dividing by the number of people.
-3. Change the tip percentage picker to show a new screen rather than using a segmented control, and give it a wider range of options – everything from 0% to 100%. Tip: use the range `0..<101` for your range rather than a fixed array.
+1. Reading text from the user with TextField.
+2. Creating pickers in a form.
+3. Adding a segmented control for tip percentages.
+4. Calculating the total per person
+5. Hiding the keyboard
 
 ## Screenshots
 
