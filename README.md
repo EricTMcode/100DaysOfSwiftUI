@@ -1,3 +1,3 @@
 # 100DaysOfSwiftUI
-###### 100 Days of SwiftUI by Paul Hudson. 
+###### By Paul Hudson (@twostraws). 
 https://www.hackingwithswift.com/100/swiftui/
