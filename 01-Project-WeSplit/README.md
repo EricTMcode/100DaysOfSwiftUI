@@ -1,7 +1,6 @@
 # Project 1 - WeSplit
 
 This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
-###### Project page: https://www.hackingwithswift.com/100/swiftui/16
 
 ## Overview
 
@@ -16,16 +15,14 @@ This project is a check-sharing app that calculates how to split a check based o
 ### Light Mode
 
 <div>
-  <img src="Screenshots/Light/L_01.png" width="250">
-  <img src="Screenshots/Light/L_02.png" width="250">
-  <img src="Screenshots/Light/L_03.png" width="250">
+  <img src="Screenshots/Light/L_01.png" width="350">
+  <img src="Screenshots/Light/L_02.png" width="350">
 </div>
 
 ### Dark Mode
 
 <div>
-  <img src="Screenshots/Dark/D_01.png" width="250">
-  <img src="Screenshots/Dark/D_02.png" width="250">
-  <img src="Screenshots/Dark/D_03.png" width="250">
+  <img src="Screenshots/Dark/D_01.png" width="350">
+  <img src="Screenshots/Dark/D_02.png" width="350">
 </div>
 
