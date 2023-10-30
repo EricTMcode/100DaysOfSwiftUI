@@ -26,8 +26,6 @@ struct ContentView: View {
         grandTotal / Double(numberOfPeople + 2)
     }
     
-    
-    
     var body: some View {
         NavigationStack {
             Form {
